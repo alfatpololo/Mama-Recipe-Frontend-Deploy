@@ -1,0 +1,31 @@
+.login-button {
+    color: white;
+    font-weight: 500;
+    margin-left: 630px;
+}
+
+.navbar-nav {
+    margin-top: 30px;
+}
+
+.custom-nav {
+    color: #2E266F;
+    font-weight: 500;
+    margin-left: 99px;
+}
+
+@media only screen and (max-width:520px) {
+    .login-button {
+        color: #2E266F;
+        margin-left: 0px;
+    }
+    
+    .navbar-nav {
+        margin-top: 0px;
+        margin-bottom: -100px;
+    }
+    
+    .custom-nav {
+        margin-left: 0px;
+    }
+}

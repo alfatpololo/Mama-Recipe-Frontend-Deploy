@@ -1,0 +1,57 @@
+/* recipe detail */
+
+.menu-image-section img {
+    width: 900px;
+}
+
+.ingredients-section button {
+    color: white;
+    border: none;
+    width: 300px;
+    height: 66px;
+    background: #EFC81A;
+    border-radius: 8px;
+    margin-top: 50px;
+}
+
+.ingredients-section .row {
+    flex-direction: column;
+}
+
+.comment-section .comment-box {
+    border-radius: 15px;
+    border: none;
+    background-color: #F6F5F4;
+}
+
+.comment-section button {
+    color: white;
+    border: none;
+    width: 500px;
+    height: 66px;
+    background: #EFC81A;
+    border-radius: 8px;
+    margin-top: 50px;
+}
+
+.comment-preview-section img {
+    width: 7;
+    height: 7;
+    border-radius: 100%;
+    object-fit: cover;
+}
+
+.comment-preview-section .row {
+    display: flex;
+    justify-content: space-between;
+}
+
+.comment-preview-section .comment-name {
+    margin-top: 10px;
+    margin-left: -750px;
+}
+
+.comment-preview-section .comment-field {
+    margin-top: -15px;
+    margin-left: -750px;
+}

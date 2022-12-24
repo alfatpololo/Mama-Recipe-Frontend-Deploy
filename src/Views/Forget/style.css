@@ -1,0 +1,170 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+*{
+    font-family: 'Inter';
+    padding: 0;
+    margin: 0;
+}
+
+label{
+    text-align: left;
+}
+
+.container-fluid p{
+        font-family: "Airbnb";
+        text-align: center;
+        font-weight: 700;  
+}
+
+.d-flex{
+    gap:20px;
+}
+
+
+.login-container{
+    position: fixed;
+    background-image: linear-gradient(rgba(241, 188, 15, 0.82), rgba(241, 188, 15, 0.82)), url("../../Assets/Images/image\ 15.png");
+    background-position: center;
+    background-size: cover;
+    color:white;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.input-container{
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    min-height: 100vh;
+}
+
+.form-box{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-family: "Inter";
+    padding: 3.5rem;
+}
+
+.heading{
+    color: rgb(241, 188, 15);
+    font-weight: 700;
+    font-size: 30px;
+    text-align: center;
+}
+
+.heading-2{
+    color: #8692A6;
+    font-weight: 400;
+    font-size: 18px;
+    text-align: center;
+}
+
+.input-form{
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.form-input{
+    position: relative;
+}
+
+.form-box .form-input input{
+    width: 100%;
+    height: 50px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    outline: none;
+    background: white;
+    padding-left: 45px;
+}
+
+.form-box .form-input input::placeholder{
+    padding-left: 0px;
+}
+
+.form-box .input-form input:focus, 
+.form-box .input-form input:valid{
+    border: 1px solid #EFC81A
+}
+
+.form-box input[type="checkbox"]:not(:checked) + label:before{
+    background: transparent;
+    border: 3px solid #000 !important;
+    width: 15px;
+    height: 15px;
+}
+
+.custom-control-input{
+    cursor: pointer;
+} 
+
+.form-box .custom-checkbox input.custom-control-input:checked{
+    background-color: #EFC81A;
+    accent-color: #EFC81A;
+    cursor: pointer;
+    border: 0px;
+}
+
+
+
+.btn{
+    background-color: #EFC81A !important;
+    justify-content: center !important;
+    border: none !important;
+    width: 100% !important;
+    height: 50px;
+    display: inline-flex !important;
+    align-items: center;
+}
+
+.text-right{
+    text-align: right !important;
+}
+
+.forgotpw{
+    color: #999999;
+    font-size: 12px;
+    font-weight: 500;
+    text-decoration: none;
+}
+
+.forgotpw:hover, .register:hover{
+    color: #EFC81A;
+}
+
+.forgotpw:active, .register:active{
+    color: black;
+}
+
+.register{
+    text-align: right;
+    color: #EFC81A;
+    text-decoration: none;
+}
+
+.signup-label{
+    color: #999999;
+    font-size: 13px;
+    font-weight: 500;
+}
+
+@media screen and (max-width: 640px){
+    .login-container{
+        height: 0px;
+    }
+    .logo{
+        display: none;
+    }
+    
+}
+
+@media screen and (max-width: 880px){
+    .form-box .form-input input{
+        padding-left: 10px;
+    }
+}

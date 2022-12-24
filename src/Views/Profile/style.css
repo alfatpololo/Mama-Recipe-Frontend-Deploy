@@ -1,0 +1,104 @@
+/* profile */
+
+.collapse-custom {
+    margin-top: 170px;
+    margin-left: -50px;
+    width: 10px;
+}
+
+.card {
+    margin-top: 20px;
+    width: 300px;
+    margin-left: 390px;
+    background-color: #E7E7E7;
+    border: none;
+    border-radius: 20px;
+}
+
+.change-profile {
+    background-color: #E7E7E7;
+    background-size: 100;
+    text-decoration: none;
+    color: #3F3A3A;
+    text-align: center;
+    font-weight: 500;
+}
+
+.change-password {
+    background-color: #E7E7E7;
+    text-decoration: none;
+    color: #3F3A3A;
+    text-align: center;
+    font-weight: 500;
+}
+
+.profile-picture {
+    width: 20%;
+    height: 20%;
+}
+
+.profile-picture-section p {
+    font-size: 24px;
+    margin-left: 10px;
+    margin-top: 30px;
+    text-align: center;
+}
+
+.recipe-menu-section .my-recipe {
+    color: black;
+}
+
+.recipe-menu-section a {
+    color: #666666;
+    display: flex;
+    justify-content: space-between;
+}
+
+.recipe-menu-images-section {
+    margin-top: -70px;
+}
+
+.recipe-menu-images-section img {
+    width: 300px;
+    height: 200px;
+}
+
+/* .recipe-menu-images-section p {
+color: #FFFFFF;
+} */
+
+.recipe-menu-section hr {
+    justify-content: center;
+    width: 100%;
+}
+
+.profile-picture-section .pen-vector {
+    margin-left: -50px;
+    margin-top: 180px;
+    width: 40px;
+    z-index: 1;
+}
+
+.user-tag {
+    padding-left: 510px;
+    margin-top: 20px;
+    font-size: 22px;
+}
+
+.btn-update {
+    background-color: yellowgreen;
+    border-radius: 10px;
+    margin-right: 10px;
+}
+
+.btn-delete {
+    background-color: red;
+    border-radius: 10px;
+    margin-right: 10px;
+}
+
+.btn-show {
+    background-color: yellow;
+    border-radius: 10px;
+    margin-right: 10px;
+}

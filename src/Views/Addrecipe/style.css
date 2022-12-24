@@ -1,0 +1,90 @@
+/* add recipe */
+
+.add-form-section .row {
+    background-color: #F6F5F4;
+    width: 1000px;
+    height: 400px;
+}
+
+.add-form-section label {
+    margin-bottom: 120px;
+}
+
+.add-form-section #image {
+    border-radius: 100%;
+    width: 94px;
+    height: 64px;
+    margin-top: 150px;
+}
+
+.video-form {
+    margin-top: -50px;
+    margin-left: 40px;
+}
+
+.text-area-section .title-box {
+    margin-right: 53px;
+    width: 1000px;
+    border-radius: 15px;
+    border: none;
+    background-color: #F6F5F4;
+}
+
+.text-area-section .title-image {
+    margin-right: 53px;
+    width: 1000px;
+    height: 500px;
+    border-radius: 15px;
+    border: none;
+    background-color: #F6F5F4;
+}
+
+.text-area-section button {
+    color: white;
+    border: none;
+    width: 500px;
+    height: 66px;
+    background: #EFC81A;
+    border-radius: 8px;
+}
+
+@media only screen and (max-width:520px) {
+    /* add recipe */
+
+.add-form-section .row {
+    display: none;
+}
+
+.add-form-section label {
+    display: none;
+}
+
+.add-form-section #image {
+    border-radius: 100%;
+    width: 94px;
+    height: 64px;
+    margin-top: 150px;
+}
+
+.video-form {
+    margin-top: -50px;
+    margin-right: 70px;
+}
+
+.text-area-section .title-box {
+    margin-right: 53px;
+    width: 1000px;
+    border-radius: 15px;
+    border: none;
+    background-color: #F6F5F4;
+}
+
+.text-area-section button {
+    color: white;
+    border: none;
+    width: 500px;
+    height: 66px;
+    background: #EFC81A;
+    border-radius: 8px;
+}
+}

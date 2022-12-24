@@ -1,0 +1,27 @@
+a {
+    text-decoration: none;
+}
+
+
+.item-title {
+    font-size: 30px;
+    color: black;
+    font-weight: 600;
+    margin-top: -50px;
+}
+
+.searchSection {
+    margin-top: 70px;
+    margin-bottom: 0px;
+    margin-left: 100px;
+}
+
+.footer {
+    margin-top: 200px;
+    background-color: #EFC81A;
+}
+
+.footer a {
+    color: #707070;
+    text-align: center;
+}

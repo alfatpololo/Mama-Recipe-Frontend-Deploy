@@ -1,0 +1,59 @@
+/* recipe video */
+
+.yellow-sidebar {
+    width: 40px;
+    background-color: #EFC81A;
+    margin-top: -160px;
+    margin-right: 50px;
+}
+
+.video-left h1 {
+    padding-top: 40px;
+    max-width: 1000px;
+    width: 450px;
+    font-size: 24px;
+}
+
+.video-left p {
+    color: #AAAAAA;
+}
+
+.video-right h1 {
+    font-weight: bold;
+}
+
+/* add recipe */
+
+.add-form-section .row {
+    background-color: #F6F5F4;
+    width: 1000px;
+    height: 400px;
+}
+
+.add-form-section label {
+    margin-bottom: 120px;
+}
+
+.add-form-section #image {
+    border-radius: 100%;
+    width: 94px;
+    height: 64px;
+    margin-top: 150px;
+}
+
+.text-area-section .title-box {
+    margin-right: 53px;
+    width: 1000px;
+    border-radius: 15px;
+    border: none;
+    background-color: #F6F5F4;
+}
+
+.text-area-section button {
+    color: white;
+    border: none;
+    width: 500px;
+    height: 66px;
+    background: #EFC81A;
+    border-radius: 8px;
+}

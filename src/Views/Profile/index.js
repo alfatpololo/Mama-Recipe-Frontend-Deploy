@@ -110,7 +110,7 @@ const Profile = () => {
           <div className="row">
             {recipe.data.map((item, index) => (
               <div key={index} className="carousel-top col-4">
-                <img src={`${process.env.REACT_APP_BACKEND_URL}/${item.image}`} />
+                <img src={item.image}/>
                 <p className="fw-bold text-light">{item.title}</p>
                 <Link to={`/recipe/update/${item.id}`}><button className="btn-update">Update</button></Link>
                 <button onClick={(e) => deleteRow(item.id, e)} className="btn-delete">Delete</button>

@@ -32,7 +32,7 @@ useEffect(() => {
                     <>
                     <section className="searchSection">
                         <Link to={`/detail/${item.id}`}>
-                        <img src={item.image} />
+                        <img src={item.image_url} />
                         <h1 className="item-title">{item.title}</h1>
                         </Link>
                     </section>

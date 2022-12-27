@@ -31,7 +31,7 @@ export const updateRecipe = (id, form) => {
 
 export const deleteRecipe = (id) => {
     return new Promise ((resolve, reject) => {
-        axios.delete(`${process.env.REACT_APP_BACKEND_URL}/recipe/${id}`)
+        axios.delete(`${process.env.REACT_APP_BACKEND_URL}/recipe/image/${id}`)
         .then((response) => {
             resolve(response);
         })

@@ -33,7 +33,7 @@ const { id } = useParams();
         <h1>{item.title}</h1>
       </div>
       <div className="row col-12 justify-content-center pt-5">
-        <img src={`${process.env.REACT_APP_BACKEND_URL}/${item.image}`}/>
+        <img src={item.image}/>
       </div>
     </div>
   </section>

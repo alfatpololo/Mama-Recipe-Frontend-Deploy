@@ -32,7 +32,7 @@ useEffect(() => {
                     <>
                     <section className="searchSection">
                         <Link to={`/detail/${item.id}`}>
-                        <img src={`${process.env.REACT_APP_BACKEND_URL}/${item.image}`} />
+                        <img src={item.image} />
                         <h1 className="item-title">{item.title}</h1>
                         </Link>
                     </section>

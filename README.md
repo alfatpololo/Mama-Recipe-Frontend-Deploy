@@ -34,9 +34,9 @@
 
 <!-- About The Project -->
 ## About The Project
-Mamarecipe is a website to share secret recipes.
-You can create a new account which later will allow you to search for a delightful food recipe.
-You are a chef yourself? You can start uploading your very own recipe and share it to others.
+Mama Recipe is a web-based cookbook-sharing application.
+Developed using PERN (PostgreSQL, ExpressJs, ReactJs, NodeJs) stack.
+It allows users to share recipes, rate and like recipes, search recipes and bookmark them.
 Mamarecipe also provides a liked and loved recipe list so you won’t have to remember every recipe you are fond of.
 
 ### Built With
@@ -167,10 +167,10 @@ Contributions are what make the open source community such an amazing place to b
 
 <!-- Related Projects -->
 ## Related Project
-:rocket: [`Mamarecipe (Backend)`](https://github.com/brndnwjy/mamarecipe-api)
+:rocket: [`Mamarecipe (Backend)`](https://github.com/alfatpololo/Mama-Recipe-Backend-Deploy)
 
 <!-- :rocket: [`Mamarecipe Web Service`](https://zany-tan-beetle-kit.cyclic.app/) -->
 
-:rocket: [`Mamarecipe App Demo`](https://mamarecipe-arx.netlify.app/)
+:rocket: [`Mamarecipe App Demo`](https://mama-recipe-frontend.vercel.app)
 
 <p align="right">(<a href="#top">back to top</a>)</p>

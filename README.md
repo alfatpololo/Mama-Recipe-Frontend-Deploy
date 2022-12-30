@@ -63,7 +63,7 @@ This is an example of how to list things you need to use the software and how to
 
 - Clone the repository
 ```
-git clone https://github.com/brndnwjy/mamarecipe-app
+git clone https://github.com/alfatpololo/Mama-Recipe-Frontend-Deploy
 ```
 - Go to repository folder
 ```

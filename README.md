@@ -126,7 +126,7 @@ Contributions are what make the open source community such an amazing place to b
   </tr>
 
   <tr>
-    <td><image src="./documentation/landing.png" alt="Landing Page" width=100%></td>
+    <td><image src="./documentation/landing.jpeg" alt="Landing Page" width=100%></td>
     <td><image src="./documentation/landing-popular.jpeg" alt="Landing Page - popular Sect." width=100%/></td>
   </tr>
    <tr>

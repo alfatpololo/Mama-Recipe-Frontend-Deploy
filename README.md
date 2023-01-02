@@ -136,7 +136,7 @@ Contributions are what make the open source community such an amazing place to b
   
    <tr>
     <td><image src="./documentation/recipe-add.png" alt="Insert Recipe" width=100%></td>
-    <td><image src="./documentation/profile-detail.png" alt="Profile" width=100%></td>
+    <td><image src="./documentation/profile.png" alt="Profile" width=100%></td>
   </tr>
   <tr>
       <td align="center">Recipe - Insert</td>

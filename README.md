@@ -124,41 +124,23 @@ Contributions are what make the open source community such an amazing place to b
       <td align="center">Forgot Password</td>
       <td align="center">Reset Password</td>
   </tr>
-
+  
   <tr>
-    <td><image src="./documentation/landing.png" alt="Landing Page" width=100%></td>
-    <td><image src="./documentation/landing-popular.jpeg" alt="Landing Page - popular Sect." width=100%/></td>
+    <td><image src="./documentation/home.png" alt="Homepage" width=100%></td>  
+    <td><image src="./documentation/recipe-detail.png" alt="Recipe - Detail" width=100%></td>
   </tr>
+  <tr>
+      <td align="center">Homepage</td>
+       <td align="center">Recipe - Detail</td>
+  </tr>
+  
    <tr>
-    <td align="center">Landing Page</td>
-    <td align="center">Landing Page - Popular Section</td>
-  </tr>
-  
-  <tr>
-    <td><image src="./documentation/profile.png" alt="Profile Detail" width=100%></td>
-    <td><image src="./documentation/recipe-delete.jpeg" alt="Recipe - Delete" width=100%></td>
-  </tr>
-  <tr>
-      <td align="center">Profile</td>
-       <td align="center">Recipe - Delete</td>
-  </tr>
-  
-  <tr>
-    <td><image src="./documentation/recipe-insert.jpeg" alt="Recipe - Insert" width=100%></td>
-    <td><image src="./documentation/recipe-edit.jpeg" alt="Recipe - Edit" width=100%></td>
+    <td><image src="./documentation/recipe-add.png" alt="Insert Recipe" width=100%></td>
+    <td><image src="./documentation/profile.png" alt="Profile" width=100%></td>
   </tr>
   <tr>
       <td align="center">Recipe - Insert</td>
-     <td align="center">Recipe - Edit</td>
-  </tr>
-  
-  <tr>
-    <td><image src="./documentation/recipe-detail.jpeg" alt="Recipe - Detail" width=100%></td>
-    <td><image src="./documentation/recipe-detail-video.jpeg" alt="Recipe - Detail Video" width=100%></td>    
-  </tr>
-  <tr>
-     <td align="center">Recipe - Detail</td>
-     <td align="center">Recipe - Detail Video</td>
+       <td align="center">Profile</td>
   </tr>
 </table>
 

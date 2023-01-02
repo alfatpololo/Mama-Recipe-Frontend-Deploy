@@ -135,7 +135,7 @@ Contributions are what make the open source community such an amazing place to b
   </tr>
   
   <tr>
-    <td><image src="./documentation/profile-detail.jpeg" alt="Profile Detail" width=100%></td>
+    <td><image src="./documentation/profile.png" alt="Profile Detail" width=100%></td>
     <td><image src="./documentation/recipe-delete.jpeg" alt="Recipe - Delete" width=100%></td>
   </tr>
   <tr>

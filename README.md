@@ -2,7 +2,7 @@
 
 <!-- Logo -->
 <div align="center">
-<img src="./documentation/logo.png" align="center" width="200" height="200" />
+<img src="./documentation/logo.svg" align="center" width="200" height="200" />
 </div>
 
 <!-- Table of Contents -->
